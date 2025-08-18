@@ -1,6 +1,8 @@
 # Golang
 
-[GitHub]
+[GitHubリポジトリ](https://github.com/Rikishi-com/Practice_Golang)
+
+---
 
 [TOC]
 
@@ -388,7 +390,7 @@ func main(){
 }
 ```
 
-#### 12．演算子
+#### 12.演算子
 
 ```go
 package main
